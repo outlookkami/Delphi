@@ -1,0 +1,28 @@
+program Project1;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var numero: Integer;
+
+begin
+  try
+    WriteLn('Informe um número');
+    ReadLn(numero);
+    if numero mod 2=0 then begin
+      Write(' é par');
+    end else begin
+      WriteLn(' é ímpar');
+    end;
+    ReadLn;
+
+
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+end.

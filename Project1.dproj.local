@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/07 16:20:39.216,=C:\Users\Kamilly Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 16:21:41.718,C:\Users\Kamilly Souza\Desktop\Lógica\VCL.pas=C:\Users\Kamilly Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/07 16:21:41.718,C:\Users\Kamilly Souza\Desktop\Lógica\VCL.dfm=C:\Users\Kamilly Souza\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/07/07 16:36:22.480,C:\Users\Kamilly Souza\Desktop\Lógica\Project1.dproj=C:\Users\Kamilly Souza\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/07 16:39:25.533,C:\Users\Kamilly Souza\Desktop\Lógica\Main.dfm=C:\Users\Kamilly Souza\Desktop\Lógica\VCL.dfm</Transaction>
+    <Transaction>2025/07/07 16:39:25.533,C:\Users\Kamilly Souza\Desktop\Lógica\Main.pas=C:\Users\Kamilly Souza\Desktop\Lógica\VCL.pas</Transaction>
+  </Transactions>
+</BorlandProject>

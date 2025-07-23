@@ -1,0 +1,26 @@
+program Project1;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var numero1, numero2, soma: Integer;
+
+begin
+  try
+    Write('Informe um número: ');
+    ReadLn(numero1);
+    Write('Informe um segundo número: ');
+    ReadLn(numero2);
+    soma := numero1 + numero2;
+    WriteLn('A soma dos números é: ' , soma);
+
+    ReadLn;
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+end.
